@@ -38,7 +38,7 @@ To practice real-world UI creation by replicating a modern hotel booking interfa
 ## 📹 Demo
 
 Check out the video demo of this project here:  
-🔗 
+🔗 https://www.linkedin.com/posts/nixon-j_web-html-css-activity-7341141538665615363-JOuS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCKRAMB4UKCdSu4p4Liz9eTtzr39LPYYeE
 
 ---
 
